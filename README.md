@@ -1,4 +1,6 @@
-# i3SteamOrKill
+# i3-steam-kill
+**This is a fork.**
+
 Script for i3 to close and not kill Steam, but use standard kill on everything else...
 
 Place the script in `~/.config/i3/`\
